@@ -1,0 +1,11 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="32" width="64" height="32" rx="16" fill="#552049"/>
+<path d="M62 48C62 55.732 55.732 62 48 62C40.268 62 34 55.732 34 48C34 40.268 40.268 34 48 34C55.732 34 62 40.268 62 48Z" stroke-width="4" stroke="#FFF7F0"/>
+<rect y="14" width="4" height="4" fill="#030303"/>
+<rect x="4" y="14" width="4" height="4" fill="#030303"/>
+<rect x="28" y="14" width="4" height="4" fill="#030303"/>
+<path d="M32 0L64 32V0H32Z" fill-rule="evenodd" clip-rule="evenodd" fill="#755CDE"/>
+<rect x="32" y="14" width="4" height="4" fill="#030303"/>
+<rect x="56" y="14" width="4" height="4" fill="#030303"/>
+<rect x="60" y="14" width="4" height="4" fill="#030303"/>
+</svg>
