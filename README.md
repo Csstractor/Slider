@@ -5,7 +5,7 @@ A responsive landing page for a design agency, built from a Figma design.
 ## 🌐 Live Demo
 
 You can view the live site here:  
-https://cssractor.github.io/Slider/
+csstractor.github.io/Slider/
 
 ## 🛠 Technologies
 
